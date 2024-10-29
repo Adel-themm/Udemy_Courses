@@ -70,6 +70,10 @@ The following sections summarize the findings from each chart, outlining the pro
 
 - **Tools Used**: Power Query and Power BI for dynamic reporting on course trends and learner behavior.
 - **Skills**: Power BI, Data Modeling, Data Cleaning, Microsoft Power Query, DAX, Data Visualization.
+  
+![Screenshot 2024-09-28 203108](https://github.com/user-attachments/assets/426d5196-4ba3-4fe0-949a-282dd4130fa4)
+
+
 
 ## Recommendations
 
